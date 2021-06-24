@@ -7,15 +7,15 @@ _Esse foi um processo desenvolvido pelos alunos [Dairenkon Majime](https://www.l
 --------------
 
 As fake news têm se tornado um problema cada vez mais relevante e os principais argumentos para defender essa ideia são: 
-1) Atrapalham o processo de tomada de decisão; 
-2) Promovem o descaso epistêmico, isto é, quando as pessoas não se preocupam em conferir e nem verificar aquilo que acreditam;
-3) Viabilizam desinformação em grande escala.
+1. Atrapalham o processo de tomada de decisão; 
+2. Promovem o descaso epistêmico, isto é, quando as pessoas não se preocupam em conferir e nem verificar aquilo que acreditam;
+3. Viabilizam desinformação em grande escala.
 
 No contexto de pandemia, o compartilhamento de notícias falsas relacionadas à SARS-COV-2 (Covid-19) é especialmente perigoso, pois pode apresentar consequências graves à saúde e incentivar comportamentos de risco. Tomar decisões baseadas em falsidades no contexto da Covid-19 é prejudicial à saúde não somente individual, mas pública.
 
 Pensando nisso, este detector tem foco em identificar notícias falas relacionadas à Covid-19.
 
-[Aqui](https://meliza-caug.medium.com/veritas-um-detector-de-fake-news-no-combate-ao-covid-19-no-brasil-e6d1d887a91) você pode conferir o nosso artigo no medium com o processo completo.
+[Aqui](https://meliza-caug.medium.com/veritas-um-detector-de-fake-news-no-combate-ao-covid-19-no-brasil-e6d1d887a91) você pode conferir o nosso artigo no medium.
 
 Instalação
 --------------
